@@ -5,7 +5,7 @@ POST http://localhost:8080/produtos
 Content-type: application/json
 
 {
-    "nome": "Samuel"
+    "nome": "Keven"
  
 }
 ###
@@ -14,7 +14,7 @@ PUT http://localhost:8080/alunos?id=498dd04b-7087-4532-a202-d2ccde971e67
 Content-type: application/json
 
 {
-    "nome": "Samuel Anderson"
+    "nome": "Keven william"
  
 }
 
